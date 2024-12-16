@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "159750102700",
+    "firebase_url": "https://archigen-32e08-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "archigen-32e08",
+    "storage_bucket": "archigen-32e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159750102700:android:b79309ff63532f03dbc909",
+        "android_client_info": {
+          "package_name": "com.ArchiGenCompany.ArchiGen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaO0Ij4IXvPm82b1hTZnB1VBZrUt3YYLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
